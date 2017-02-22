@@ -1,0 +1,28 @@
+{
+  "name": "breaking-bad-quotes",
+  "version": "1.0.0",
+  "description": "An API for retrieving Breaking Bad quotes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shevabam/breaking-bad-quotes"
+  },
+  "keywords": [
+    "breaking",
+    "bad",
+    "heisenberg",
+    "quotes",
+    "api"
+  ],
+  "author": "ShevAbam",
+  "bugs": {
+    "url": "https://github.com/shevabam/breaking-bad-quotes/issues"
+  },
+  "homepage": "https://github.com/shevabam/breaking-bad-quotes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
