@@ -192,5 +192,9 @@ module.exports = [
     {
         "quote": "Put me on your magical boat, man, and sail me down your chocolatey river of meth!",
         "author": "Badger"
+    },
+    {
+        "quote": "Buzz buzz buzz",
+        "author": "The fly"
     }
 ];
