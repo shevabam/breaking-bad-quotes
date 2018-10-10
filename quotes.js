@@ -196,5 +196,21 @@ module.exports = [
     {
         "quote": "Buzz buzz buzz",
         "author": "The fly"
+    },
+    {
+        "quote":"The Universe is Random.Not Inevitable.It's simple Chaos.",
+        "author":"Walter White"
+    },
+    {
+        "quote":"Sometimes it just feels better not to talk.At All.About Anything.To Anyone.",
+        "author":"Walter White"
+    },
+    {
+        "quote":"Name one thing in this world that is non negotiable.",
+        "author":"Walter White"
+    },
+    {
+        "quote":"You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.",
+        "author":"Mike Ehrmantraut"
     }
 ];
