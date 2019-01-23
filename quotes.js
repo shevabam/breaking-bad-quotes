@@ -10,12 +10,12 @@ module.exports = [
         "author": "Walter White"
     },
     {
-        "quote": "If you don’t know who I am, then maybe your best course would be to tread lightly.",
+        "quote": "If that’s true, if you don’t know who I am, then maybe your best course… would be to tread lightly.",
         "author": "Walter White"
     },
     {
         "quote": "Someone has to protect this family from the man who protects this family.",
-        "author": "Walter White"
+        "author": "Skyler White"
     },
     {
         "quote": "Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.",
@@ -187,10 +187,10 @@ module.exports = [
     },
     {
         "quote": "All I can do is wait... for the cancer to come back.",
-        "author": "Skyler"
+        "author": "Skyler White"
     },
     {
-        "quote": "Put me on your magical boat, man, and sail me down your chocolatey river of meth!",
+        "quote": "Put me on your magical boat, man, and sail me down your chocolaty river of meth!",
         "author": "Badger"
     },
     {
@@ -198,11 +198,11 @@ module.exports = [
         "author": "The fly"
     },
     {
-        "quote":"The Universe is Random.Not Inevitable.It's simple Chaos.",
+        "quote":"The Universe is Random. Not Inevitable. It's simple Chaos.",
         "author":"Walter White"
     },
     {
-        "quote":"Sometimes it just feels better not to talk.At All.About Anything.To Anyone.",
+        "quote":"Sometimes it just feels better not to talk. At All. About Anything. To Anyone.",
         "author":"Walter White"
     },
     {
