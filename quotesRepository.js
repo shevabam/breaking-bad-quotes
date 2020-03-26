@@ -11,14 +11,10 @@ module.exports = {
         var quoteAlreadyUsed;
 
         for (var i = 0; i < limit; i++) {
-            quote = quotes[Math.floor(Math.random() * quotes.length)];
-            quoteAlreadyUsed = out.indexOf(quote) > -1;
-
-            while (quoteAlreadyUsed) {
+            do {
                 quote = quotes[Math.floor(Math.random() * quotes.length)];
                 quoteAlreadyUsed = out.indexOf(quote) > -1;
-            }
-
+            } while (quoteAlreadyUsed);
             out[i] = quote;
         }
 
