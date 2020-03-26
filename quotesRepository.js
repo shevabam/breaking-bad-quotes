@@ -13,11 +13,10 @@ module.exports = {
         for (var i = 0; i < limit; i++) {
             do {
                 quote = quotes[Math.floor(Math.random() * quotes.length)];
-                quoteAlreadyUsed = out.indexOf(quote) > -1;
-            } while (quoteAlreadyUsed);
+            } while (out.indexOf(quote) > -1);
             out[i] = quote;
         }
-
+        
         return out;
     }
 };
