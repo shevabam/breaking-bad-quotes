@@ -102,7 +102,7 @@ module.exports = [
         "author": "Jesse Pinkman"
     },
     {
-        "quote": "Did you just bring a bomb into a hostpital?",
+        "quote": "Did you just bring a bomb into a hospital?",
         "author": "Jesse Pinkman"
     },
     {
