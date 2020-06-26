@@ -212,5 +212,9 @@ module.exports = [
     {
         "quote":"You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.",
         "author":"Mike Ehrmantraut"
+    },
+    {
+        "quote":"If you don’t know who I am, then maybe your best course would be to tread lightly.",
+        "author":"Walter White"
     }
 ];
