@@ -134,6 +134,18 @@ module.exports = [
         "author": "Saul Goodman"
     },
     {
+        "quote": "Congratulations, you’ve just left your family a second-hand Subaru.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I’m not saying it’s not bad. It’s bad. But it could be worse.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I hide in plain sight, same as you.",
+        "author": "Gustavo Fring"
+    },
+    {
         "quote": "May his death satisfy you.",
         "author": "Gustavo Fring"
     },
