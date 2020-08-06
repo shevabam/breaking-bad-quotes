@@ -228,5 +228,29 @@ module.exports = [
     {
         "quote":"If you don’t know who I am, then maybe your best course would be to tread lightly.",
         "author":"Walter White"
+    },
+    {
+        "quote":"Walter Jr., you’re my big man. There are going to be some things that you’ll come to learn about me in the next few days. But just know that no matter how it may look, I only had you in my heart. Goodbye!",
+        "author":"Walter White"
+    },
+    {
+        "quote":"What I came to realise is that fear, that’s the worst of it. That’s the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.",
+        "author":"Walter White"
+    },
+    {
+        "quote":"You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.",
+        "author":"Walter White"
+    },
+    {
+        "quote":"This is my own private domicile and I will not be harassed…bitch!",
+        "author":"Jesse Pinkman"
+    },
+    {
+        "quote":"You don’t want a criminal lawyer. You want a criminal lawyer.",
+        "author":"Jesse Pinkman"
+    },
+    {
+        "quote":"So roll me further bitch!",
+        "author":"Jesse Pinkman"
     }
 ];
