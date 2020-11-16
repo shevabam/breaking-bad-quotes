@@ -37,7 +37,6 @@ module.exports = [
         "quote":"Hey, tell your douchebag brother-in-law to head towards the light"
         "author": "Jesse"
     },
-
     {
         "quote":"Did you know that there's an acceptable level of rat turds that can go into candy bars? It's the government, jack. Even government doesn't care that much about quality. You know what is okay to put in hot dogs? Huh? Pig lips and *beep* But I say, hey, have at it bitches 'cause I love hot dogs."
         "author": "Jesse"
