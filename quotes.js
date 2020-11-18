@@ -252,5 +252,9 @@ module.exports = [
     {
         "quote":"So roll me further bitch!",
         "author":"Jesse Pinkman"
+    },
+    {
+        "quote":"I am so clever that sometimes I don't understand a single word of what I am saying",
+        "author":"Oscar Wilde"
     }
 ];
