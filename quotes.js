@@ -2,76 +2,56 @@
 
 module.exports = [
     {
-        "quote":"*beep* you! And your eyebrows!"
-        "author": "Walter H. White"
-    },
-    {
-        "quote":"I'm sorry, what were you asking me? Oh, yes, that stupid plastic container I asked you to buy. You see, hydrofluoric acid won't eat through plastic; it will however dissolve metal, rock, glass, ceramic. So there's that"
+        "quote": "I'm sorry, what were you asking me? Oh, yes, that stupid plastic container I asked you to buy. You see, hydrofluoric acid won't eat through plastic; it will however dissolve metal, rock, glass, ceramic. So there's that",
         "author": "Walter White"
     },
     {
-        "quote":" Alright, I've got the talking pillow now... Okay?"
-        "author": "Walter H. White"
+        "quote": "Alright, I've got the talking pillow now... Okay?",
+        "author": "Walter White"
     },
     {
-        "quote":"We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die."
-        "author": "Walter"
+        "quote": "We tried to poison you. We tried to poison you because you are an insane, degenerate piece of filth and you deserve to die.",
+        "author": "Walter White"
     },
     {
-        "quote":"Alright, tell you what. Both of you pull it out your butts right now, or I go grab a flashlight and some pliers and go exploring."
-        "author": "Jesse"
+        "quote": "Alright, tell you what. Both of you pull it out your butts right now, or I go grab a flashlight and some pliers and go exploring.",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"No *beep* Right now you're Fredo. But, y'know, with some sound advice and proper introductions, who knows? I'll tell you one thing: you've got the right product. Anything that gets the DEA's panties in this big a bunch, you're onto something special. And I would like to be a small and silent part of it. Food for thought, yeah? So if you want to make more money and keep the money that you make, better call Saul!"
-        "author": "Saul"
+        "quote": "I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame",
+        "author": "Gustavo Fring"
     },
     {
-        "quote":"I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame"
-        "author": "Gus"
+        "quote": "When you have children, you always have family. They will always be your priority, your responsibility. And a man, a man provides. And he does it even when he's not appreciated or respected or even loved. He simply bears up and he does it. Because he's a man.",
+        "author": "Gustavo Fring"
     },
     {
-        "quote":"When you have children, you always have family. They will always be your priority, your responsibility. And a man, a man provides. And he does it even when he's not appreciated or respected or even loved. He simply bears up and he does it. Because he's a man."
-        "author": "Gus"
+        "quote": "Hey, tell your douchebag brother-in-law to head towards the light",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"Hey, tell your douchebag brother-in-law to head towards the light"
-        "author": "Jesse"
+        "quote": "Did you know that there's an acceptable level of rat turds that can go into candy bars? It's the government, jack. Even government doesn't care that much about quality. You know what is okay to put in hot dogs? Huh? Pig lips and *beep* But I say, hey, have at it bitches 'cause I love hot dogs.",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"Did you know that there's an acceptable level of rat turds that can go into candy bars? It's the government, jack. Even government doesn't care that much about quality. You know what is okay to put in hot dogs? Huh? Pig lips and *beep* But I say, hey, have at it bitches 'cause I love hot dogs."
-        "author": "Jesse"
+        "quote": "The one that says if I can't kill you, you'll sure as *beep* wish you were dead.",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"The one that says if I can’t kill you, you’ll sure as *beep* wish you were dead. "
-        "author": "Jesse"
+        "quote": "You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer.",
+        "author": "Mike Ehrmantraut"
     },
     {
-        "quote":"You won, Walter. You got the job. Do yourself a favor and learn to take yes for an answer."
-        "author": "Mike"
+        "quote": "The thing is, if you just do stuff and nothing happens, what's it all mean? What's the point? Oh right, this whole thing is about self-acceptance.",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"The thing is, if you just do stuff and nothing happens, what's it all mean? What's the point? Oh right, this whole thing is about self-acceptance."
-        "author": "Jesse"
+        "quote": "You are a time bomb, tick-tick-ticking. And I have no intention of being around for the boom.",
+        "author": "Mike Ehrmantraut"
     },
     {
-        "quote":"If you try to interfere, this becomes a much simpler matter. I will kill your wife. I will kill your son. I will kill your infant daughter."
-        "author": "Gus"
-    },
-    {
-        "quote":"You are a time bomb, tick-tick-ticking. And I have no intention of being around for the boom."
-        "author": "Mike"
-    },
-    {
-        "quote":"Everyone sounds like Meryl Streep, with a gun to their head"
-        "author": "Mike"
-    },
-    {
-        "quote":"Don't drink and drive but if you do, call me."
-        "author": "Saul"
-    },
-    {
-        "quote":"I did it for me. I liked it. I was good at it. And I was really – I was alive."
-        "author": "Walter"
+        "quote": "Don't drink and drive but if you do, call me.",
+        "author": "Saul Goodman"
     },
     {
         "quote": "I am not in danger, Skyler. I AM the danger!",
@@ -277,51 +257,52 @@ module.exports = [
         "quote": "Put me on your magical boat, man, and sail me down your chocolaty river of meth!",
         "author": "Badger"
     },  
-    { "quote": "Buzz buzz buzz",
+    {
+        "quote": "Buzz buzz buzz",
         "author": "The fly"
     },
     {
-        "quote":"The Universe is Random. Not Inevitable. It's simple Chaos.",
-        "author":"Walter White"
+        "quote": "The Universe is Random. Not Inevitable. It's simple Chaos.",
+        "author": "Walter White"
     },
     {
-        "quote":"Sometimes it just feels better not to talk. At All. About Anything. To Anyone.",
-        "author":"Walter White"
+        "quote": "Sometimes it just feels better not to talk. At All. About Anything. To Anyone.",
+        "author": "Walter White"
     },
     {
-        "quote":"Name one thing in this world that is non negotiable.",
-        "author":"Walter White"
+        "quote": "Name one thing in this world that is non negotiable.",
+        "author": "Walter White"
     },
     {
-        "quote":"You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.",
-        "author":"Mike Ehrmantraut"
+        "quote": "You are not the guy. You're not capable of being the guy. I had a guy but now I don't. You are not the guy.",
+        "author": "Mike Ehrmantraut"
     },
     {
-        "quote":"If you don’t know who I am, then maybe your best course would be to tread lightly.",
-        "author":"Walter White"
+        "quote": "If you don’t know who I am, then maybe your best course would be to tread lightly.",
+        "author": "Walter White"
     },
     {
-        "quote":"Walter Jr., you’re my big man. There are going to be some things that you’ll come to learn about me in the next few days. But just know that no matter how it may look, I only had you in my heart. Goodbye!",
-        "author":"Walter White"
+        "quote": "Walter Jr., you're my big man. There are going to be some things that you'll come to learn about me in the next few days. But just know that no matter how it may look, I only had you in my heart. Goodbye!",
+        "author": "Walter White"
     },
     {
-        "quote":"What I came to realise is that fear, that’s the worst of it. That’s the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.",
-        "author":"Walter White"
+        "quote": "What I came to realise is that fear, that's the worst of it. That's the real enemy. So, get up, get out in the real world and you kick that bastard as hard you can right in the teeth.",
+        "author": "Walter White"
     },
     {
-        "quote":"You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.",
-        "author":"Walter White"
+        "quote": "You need to stop focusing on the darkness behind you. The past is the past. Nothing can change what we’ve done.",
+        "author": "Walter White"
     },
     {
-        "quote":"This is my own private domicile and I will not be harassed…bitch!",
-        "author":"Jesse Pinkman"
+        "quote": "This is my own private domicile and I will not be harassed... bitch!",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"You don’t want a criminal lawyer. You want a criminal lawyer.",
-        "author":"Jesse Pinkman"
+        "quote": "You don’t want a criminal lawyer. You want a criminal lawyer.",
+        "author": "Jesse Pinkman"
     },
     {
-        "quote":"So roll me further bitch!",
-        "author":"Jesse Pinkman"
+        "quote": "So roll me further bitch!",
+        "author": "Jesse Pinkman"
     }
 ];
