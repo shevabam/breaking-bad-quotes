@@ -304,5 +304,13 @@ module.exports = [
     {
         "quote": "So roll me further bitch!",
         "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "I Won.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "You’re never too old for balloons."
+        "author": "Mike Ehrmantraut"
     }
 ];
