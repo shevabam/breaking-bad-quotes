@@ -310,7 +310,7 @@ module.exports = [
         "author": "Walter White"
     },
     {
-        "quote": "You’re never too old for balloons."
+        "quote": "You’re never too old for balloons.",
         "author": "Mike Ehrmantraut"
     }
 ];
