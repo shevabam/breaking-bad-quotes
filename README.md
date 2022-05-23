@@ -8,7 +8,9 @@ A simple API to retrieve some quotes of Breaking Bad, bitch!
 
 ## Production host
 
-[https://breaking-bad-quotes.herokuapp.com](https://breaking-bad-quotes.herokuapp.com)
+🆕 [https://api.breakingbadquotes.xyz](https://api.breakingbadquotes.xyz)
+
+OLD : [https://breaking-bad-quotes.herokuapp.com](https://breaking-bad-quotes.herokuapp.com)
 
 ## API
 
@@ -16,7 +18,7 @@ A simple API to retrieve some quotes of Breaking Bad, bitch!
 
 Get a random quote in this format:
 
-> [https://breaking-bad-quotes.herokuapp.com/v1/quotes](https://breaking-bad-quotes.herokuapp.com/v1/quotes)
+> [https://api.breakingbadquotes.xyz/v1/quotes](https://breaking-bad-quotes.herokuapp.com/v1/quotes)
 
 	[
 		{
@@ -30,7 +32,7 @@ Get a random quote in this format:
 
 Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 
-> [https://breaking-bad-quotes.herokuapp.com/v1/quotes/5](https://breaking-bad-quotes.herokuapp.com/v1/quotes/5)
+> [https://api.breakingbadquotes.xyz/v1/quotes/5](https://breaking-bad-quotes.herokuapp.com/v1/quotes/5)
 
 	[
 	  {
