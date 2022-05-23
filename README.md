@@ -18,7 +18,7 @@ OLD : [https://breaking-bad-quotes.herokuapp.com](https://breaking-bad-quotes.he
 
 Get a random quote in this format:
 
-> [https://api.breakingbadquotes.xyz/v1/quotes](https://breaking-bad-quotes.herokuapp.com/v1/quotes)
+> [https://api.breakingbadquotes.xyz/v1/quotes](https://api.breakingbadquotes.xyz/v1/quotes)
 
 	[
 		{
@@ -32,7 +32,7 @@ Get a random quote in this format:
 
 Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 
-> [https://api.breakingbadquotes.xyz/v1/quotes/5](https://breaking-bad-quotes.herokuapp.com/v1/quotes/5)
+> [https://api.breakingbadquotes.xyz/v1/quotes/5](https://api.breakingbadquotes.xyz/v1/quotes/5)
 
 	[
 	  {
