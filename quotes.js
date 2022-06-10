@@ -312,5 +312,9 @@ module.exports = [
     {
         "quote": "You’re never too old for balloons.",
         "author": "Mike Ehrmantraut"
+    },
+    {
+        "quote":"I have spent my whole life scared frightened of things that could happen, might happen, might not happen.",
+        "author":"Walter White"
     }
 ];
