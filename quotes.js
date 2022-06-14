@@ -325,5 +325,4 @@ module.exports = [
         "quote": "Then why don't you just fucking die, already?",
         "author": "Walter White Jr"
     }
-    
 ];
