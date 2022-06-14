@@ -316,5 +316,14 @@ module.exports = [
     {
         "quote": "I have spent my whole life scared frightened of things that could happen, might happen, might not happen.",
         "author": "Walter White"
+    },
+    {
+        "quote": "Now, hey, remember, not all learning comes out of books.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Then why don't you just fucking die, already?",
+        "author": "Walter White Jr"
     }
+    
 ];
