@@ -58,6 +58,11 @@ Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 	]
 
 
+## Postman
+
+You can integrate the API into Postman thanks to the [Postman collection](Breaking_Bad_Quotes_API.postman_collection.json) available on the repository.
+
+
 ## Docker
 
 You can find the Dockerfile [here](https://github.com/shevabam/dockerfiles/tree/master/breaking-bad-quotes) and on [Docker Hub](https://hub.docker.com/r/shevabam/breaking-bad-quotes/).

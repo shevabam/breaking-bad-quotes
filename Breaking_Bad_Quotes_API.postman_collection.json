@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "9baf9c46-b309-4b2d-a096-0ba891b55478",
+		"name": "Breaking Bad Quotes API",
+		"description": "# Breaking Bad quotes API\n\nA simple API to retrieve some quotes of Breaking Bad, bitch!\n\n🌐 Website and demo: [https://breakingbadquotes.xyz/](https://breakingbadquotes.xyz/)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get one random quote",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.breakingbadquotes.xyz/v1/quotes",
+					"protocol": "https",
+					"host": [
+						"api",
+						"breakingbadquotes",
+						"xyz"
+					],
+					"path": [
+						"v1",
+						"quotes"
+					]
+				},
+				"description": "Get a random quote"
+			},
+			"response": []
+		},
+		{
+			"name": "Get {{number}} random quotes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.breakingbadquotes.xyz/v1/quotes/{{number}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"breakingbadquotes",
+						"xyz"
+					],
+					"path": [
+						"v1",
+						"quotes",
+						"{{number}}"
+					]
+				},
+				"description": "Returns an array with {number} quotes e.g. `GET /v1/quotes/5`."
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "number",
+			"value": "5"
+		}
+	]
+}
