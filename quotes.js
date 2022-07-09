@@ -324,5 +324,9 @@ module.exports = [
     {
         "quote": "Then why don't you just fucking die, already?",
         "author": "Walter White Jr"
+    },
+    {
+        "quote": "He handles the businesses, and I handle him."
+        "author": "Walter White"
     }
 ];
