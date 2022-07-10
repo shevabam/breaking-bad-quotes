@@ -326,7 +326,7 @@ module.exports = [
         "author": "Walter White Jr"
     },
     {
-        "quote": "He handles the businesses, and I handle him."
+        "quote": "He handles the businesses, and I handle him.",
         "author": "Walter White"
     }
 ];
