@@ -326,23 +326,23 @@ module.exports = [
         "author": "Walter White Jr"
     },
     {
-        "quote": "He handles the businesses, and I handle him."
+        "quote": "He handles the businesses, and I handle him.",
         "author": "Walter White"
     },
     {
-        "quote": "Shit!"
+        "quote": "Shit!",
         "author": "Walter White"
     },
     {
-        "quote": "You little bastard."
+        "quote": "You little bastard.",
         "author": "Walter White"
     },
     {
-        "quote": "Stop acting like such a baby."
+        "quote": "Stop acting like such a baby.",
         "author": "Walter White"
     },
     {
-        "quote": "Is that your fly-sabre?"
+        "quote": "Is that your fly-sabre?",
         "author": "Jesse Pinkman"
     }
 ];
