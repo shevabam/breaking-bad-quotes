@@ -344,5 +344,9 @@ module.exports = [
     {
         "quote": "Is that your fly-sabre?",
         "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Don't bullshit a bullshitter.",
+        "author": "Walter White"
     }
 ];
