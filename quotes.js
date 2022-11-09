@@ -348,5 +348,9 @@ module.exports = [
     {
         "quote": "Don't bullshit a bullshitter.",
         "author": "Walter White"
+    },
+    {
+        "quote": "Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.",
+        "author": "Walter White"
     }
 ];
