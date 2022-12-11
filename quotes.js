@@ -352,5 +352,9 @@ module.exports = [
     {
        "quote": "Some people are immune to good advice.",
        "author": "Walter White"
+    },
+    {
+        "quote": "Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.",
+        "author": "Walter White"
     }
 ];
