@@ -348,5 +348,9 @@ module.exports = [
     {
         "quote": "Don't bullshit a bullshitter.",
         "author": "Walter White"
+    },
+    {
+       "quote": "Some people are immune to good advice.",
+       "author": "Walter White"
     }
 ];
