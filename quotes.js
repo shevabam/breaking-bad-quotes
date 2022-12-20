@@ -356,5 +356,29 @@ module.exports = [
     {
         "quote": "Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.",
         "author": "Walter White"
-    }
+    },
+    {
+        "quote": "Find what you love and let it kill you.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Let's see, how shouild i put this? I'm in, you're out.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Never give up control. Live life on your own terms.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Fear is the real enemy.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "All bad things must come to an end.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Jesse, you asked me if I was in the meth business or the money business.. Neither. I'm in the empire business.",
+        "author": "Walter White"
+    },
 ];
