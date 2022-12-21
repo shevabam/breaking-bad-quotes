@@ -381,4 +381,80 @@ module.exports = [
         "quote": "Jesse, you asked me if I was in the meth business or the money business.. Neither. I'm in the empire business.",
         "author": "Walter White"
     },
+    {
+        "quote": "Sometimes the forbidden fruit tastes the sweetest.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Free food always tastes good. Free drinks even better.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "My friends, I promise you that together, we will prosper.",
+        "author": "Gus Fring"
+    },
+    {
+        "quote": "Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
+        "author": "Skyler White"
+    },
+    {
+        "quote": "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
+        "author": "Skyler White"
+    },
+    {
+        "quote": "It’s easy money. Until we catch you.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "I once told a woman I was Kevin Costner and it worked because I believed it.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Scientists love lasers.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "If you’re committed enough, you can make any story work.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Did I say you could open your mouth? And, hands off the car!",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "If you believe that there’s a hell, we’re pretty much already going there.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "You add plus a douchebag to a minus douchebag and you get, Like, Zero Douchebags.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "A guy that clean has to be dirty.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "There is gold in the streets just waiting for someone to come and scoop it up.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "The fun’s over. From here on out, I’m Mr. Low Profile. Just another douche bag with a job and three pairs of Dockers. If I’m lucky, month from now, best-case scenario, I’m managing a Cinnabon in Omaha.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I am speaking to my family now. Skyler, you are the love of my life. I hope you know that.",
+        "author": "Walter White"
+    },
 ];
