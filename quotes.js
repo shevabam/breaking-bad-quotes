@@ -457,4 +457,8 @@ module.exports = [
         "quote": "I am speaking to my family now. Skyler, you are the love of my life. I hope you know that.",
         "author": "Walter White"
     },
+    {
+        "quote": "I could have saved her",
+        "author": "Walter White"
+    }
 ];
