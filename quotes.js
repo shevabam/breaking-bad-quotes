@@ -460,5 +460,5 @@ module.exports = [
     {
         "quote": "I could have saved her",
         "author": "Walter White"
-    },
+    }
 ];
