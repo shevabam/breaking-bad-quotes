@@ -210,7 +210,7 @@ module.exports = [
         "author": "Mike Ehrmantraut"
     },
     {
-        "quote": "You know how they say 'it's been a pleasure'? Well... it hasn't.",
+        "quote": "You know how they say it's been a pleasure'? Well... it hasn't.",
         "author": "Mike Ehrmantraut"
     },
     {
@@ -298,7 +298,7 @@ module.exports = [
         "author": "Jesse Pinkman"
     },
     {
-        "quote": "You don’t want a criminal lawyer. You want a criminal lawyer.",
+        "quote": "You don't want a criminal lawyer. You want a criminal lawyer.",
         "author": "Jesse Pinkman"
     },
     {
@@ -398,7 +398,7 @@ module.exports = [
         "author": "Hank Schrader"
     },
     {
-        "quote": "Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.",
+        "quote": "Fifty years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.",
         "author": "Walter White"
     },
     {
@@ -466,19 +466,7 @@ module.exports = [
         "author": "Saul Goodman"
     },
     {
-        "quote": "Fifty years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.",
-        "author": "Walter White"
-    },
-    {
-        "quote": "You know how they say it's been a pleasure? It hasn't.",
-        "author": "Saul Goodman"
-    },
-    {
         "quote": "I have lived under the threat of death for a year now, and because of that, I've made peace with it.",
         "author": "Walter White"
-    },
-    {
-        "quote": "No more half measures.",
-        "author": "Mike Ehrmantraut"
     }
 ];
