@@ -256,7 +256,7 @@ module.exports = [
     {
         "quote": "Put me on your magical boat, man, and sail me down your chocolaty river of meth!",
         "author": "Badger"
-    },  
+    },
     {
         "quote": "Buzz buzz buzz",
         "author": "The fly"
@@ -350,8 +350,8 @@ module.exports = [
         "author": "Walter White"
     },
     {
-       "quote": "Some people are immune to good advice.",
-       "author": "Walter White"
+        "quote": "Some people are immune to good advice.",
+        "author": "Walter White"
     },
     {
         "quote": "Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.",
@@ -460,5 +460,25 @@ module.exports = [
     {
         "quote": "I could have saved her",
         "author": "Walter White"
+    },
+    {
+        "quote": "I'm not a criminal. I'm a criminal lawyer.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Fifty years I spent like that. Finding myself awake at three in the morning. But you know what? Ever since my diagnosis, I sleep just fine.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "You know how they say it's been a pleasure? It hasn't.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I have lived under the threat of death for a year now, and because of that, I've made peace with it.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "No more half measures.",
+        "author": "Mike Ehrmantraut"
     }
 ];
