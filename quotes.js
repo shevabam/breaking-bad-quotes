@@ -391,7 +391,7 @@ module.exports = [
     },
     {
         "quote": "My friends, I promise you that together, we will prosper.",
-        "author": "Gus Fring"
+        "author": "Gustavo Fring"
     },
     {
         "quote": "Now look buddy, the last thing I want to do is get you in hot water, but some meth monkey had a feeding frenzy in here.",
@@ -468,5 +468,22 @@ module.exports = [
     {
         "quote": "I have lived under the threat of death for a year now, and because of that, I've made peace with it.",
         "author": "Walter White"
-    }
+    },
+    {
+        "quote": "I investigate everyone with whom I do business. What careful man wouldn't?",
+        "author": "Gustavo Fring"
+    },
+    {
+        "quote": "It’s like Scarface had sex with Mr. Rogers or something.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Sitting around, smoking marijuana, eating Cheetos and masturbating do not constitute ‘plans.’",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Gatorade me, bitch!",
+        "author": "Jesse Pinkman"
+    },
+    
 ];
