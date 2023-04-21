@@ -410,10 +410,6 @@ module.exports = [
         "author": "Skyler White"
     },
     {
-        "quote": "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
-        "author": "Skyler White"
-    },
-    {
         "quote": "It’s easy money. Until we catch you.",
         "author": "Hank Schrader"
     },
