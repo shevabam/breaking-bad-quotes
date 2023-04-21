@@ -362,7 +362,7 @@ module.exports = [
         "author": "Walter White"
     },
     {
-        "quote": "Let's see, how shouild i put this? I'm in, you're out.",
+        "quote": "Let's see, how should i put this? I'm in, you're out.",
         "author": "Walter White"
     },
     {
