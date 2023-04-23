@@ -362,7 +362,7 @@ module.exports = [
         "author": "Walter White"
     },
     {
-        "quote": "Let's see, how shouild i put this? I'm in, you're out.",
+        "quote": "Let's see, how should i put this? I'm in, you're out.",
         "author": "Walter White"
     },
     {
@@ -404,10 +404,6 @@ module.exports = [
     {
         "quote": "I told you, Skyler, I warned you for a solid year: you cross me, and there will be consequences.",
         "author": "Walter White"
-    },
-    {
-        "quote": "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
-        "author": "Skyler White"
     },
     {
         "quote": "I want my kids back. I want my life back. Please tell me – How much is enough? How big does this pile have to be?",
