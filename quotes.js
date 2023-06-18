@@ -481,5 +481,13 @@ module.exports = [
         "quote": "Gatorade me, bitch!",
         "author": "Jesse Pinkman"
     },
+    {
+        "quote": "We're done when I say we're done",
+        "author": "Walter White"
+    },
+     {
+        "quote": "My name is Skyler White yo. My husband is Walter White...yo",
+        "author": "Skyler White"
+    },
     
 ];
