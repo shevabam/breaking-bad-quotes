@@ -489,5 +489,9 @@ module.exports = [
         "quote": "My name is Skyler White yo. My husband is Walter White...yo",
         "author": "Skyler White"
     },
+    {
+        "quote": "Coin flip is sacred",
+        "author": "Jesse Pinkman"
+    },
     
 ];
