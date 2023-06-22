@@ -485,18 +485,20 @@ module.exports = [
         "quote": "We're done when I say we're done",
         "author": "Walter White"
     },
-     {
-        "quote": "My name is Skyler White yo. My husband is Walter White...yo",
+    {
+        "quote": "My name is Skyler White yo. My husband is Walter White... yo",
         "author": "Skyler White"
     },
-    {   "quote": "I am not in danger, I am the danger.",
-	"author": "Walter White"
+    {
+        "quote": "To all law enforcement entities, this is not an admission of guilt.",
+	      "author": "Walter White"
     },
-    {   "quote":"To all law enforcement entities, this is not an admission of guilt.",
-	"author":"Walter White"
+    {
+        "quote": "We're all on the same page. The one that says, if I can't kill you, you'll sure as shit wish you were dead.",
+	      "author": "Jesse Pinkman"
     },
-    {   "quote":"We’re all on the same page. The one that says, if I can’t kill you, you’ll sure as shit wish you were dead.",
-	"author":"Jesse Pinkman"
-    },
-
+    {
+        "quote": "Coin flip is sacred",
+        "author": "Jesse Pinkman"
+    }
 ];
