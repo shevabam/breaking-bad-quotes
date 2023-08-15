@@ -500,5 +500,9 @@ module.exports = [
     {
         "quote": "Coin flip is sacred",
         "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "You either run from things, or you face them, Mr. White.",
+        "author": "Jesse Pinkman"
     }
 ];
