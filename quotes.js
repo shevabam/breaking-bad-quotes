@@ -504,5 +504,9 @@ module.exports = [
     {
         "quote": "You either run from things, or you face them, Mr. White.",
         "author": "Jesse Pinkman"
-    }
+    },
+    {
+        "quote": "Tight. Tight. Tight.",
+        "author": "Tuco Salamanca"
+    },
 ];
