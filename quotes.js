@@ -509,4 +509,8 @@ module.exports = [
         "quote": "Tight. Tight. Tight.",
         "author": "Tuco Salamanca"
     },
+    {
+	"quote": "Get busy living or get busy dying.",
+        "author": "Stephen King"
+    },
 ];
