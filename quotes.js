@@ -510,7 +510,11 @@ module.exports = [
         "author": "Tuco Salamanca"
     },
     {
-	"quote": "Get busy living or get busy dying.",
+	    "quote": "Get busy living or get busy dying.",
         "author": "Stephen King"
+    },
+    {
+        "quote": "Free to cook anytime, anywhere.",
+        "author": "Jesse Pinkman"
     },
 ];
