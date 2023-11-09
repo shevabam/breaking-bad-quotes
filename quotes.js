@@ -2,7 +2,7 @@
 
 module.exports = [
     {
-        "quote": "I'm sorry, what were you asking me? Oh, yes, that stupid plastic container I asked you to buy. You see, hydrofluoric acid won't eat through plastic; it will however dissolve metal, rock, glass, ceramic. So there's that",
+        "quote": "I'm sorry, what were you asking me? Oh, yes, that stupid plastic container I asked you to buy. You see, hydrofluoric acid won't eat through plastic; it will however dissolve metal, rock, glass, ceramic. So there's that.",
         "author": "Walter White"
     },
     {
@@ -18,7 +18,7 @@ module.exports = [
         "author": "Jesse Pinkman"
     },
     {
-        "quote": "I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame",
+        "quote": "I do not believe fear to be an effective motivator. I want investment. For now, I'm simply interested in time frame.",
         "author": "Gustavo Fring"
     },
     {
@@ -26,7 +26,7 @@ module.exports = [
         "author": "Gustavo Fring"
     },
     {
-        "quote": "Hey, tell your douchebag brother-in-law to head towards the light",
+        "quote": "Hey, tell your douchebag brother-in-law to head towards the light.",
         "author": "Jesse Pinkman"
     },
     {
@@ -454,7 +454,7 @@ module.exports = [
         "author": "Walter White"
     },
     {
-        "quote": "I could have saved her",
+        "quote": "I could have saved her.",
         "author": "Walter White"
     },
     {
@@ -482,23 +482,23 @@ module.exports = [
         "author": "Jesse Pinkman"
     },
     {
-        "quote": "We're done when I say we're done",
+        "quote": "We're done when I say we're done.",
         "author": "Walter White"
     },
     {
-        "quote": "My name is Skyler White yo. My husband is Walter White... yo",
+        "quote": "My name is Skyler White yo. My husband is Walter White... yo.",
         "author": "Skyler White"
     },
     {
         "quote": "To all law enforcement entities, this is not an admission of guilt.",
-	      "author": "Walter White"
+	"author": "Walter White"
     },
     {
         "quote": "We're all on the same page. The one that says, if I can't kill you, you'll sure as shit wish you were dead.",
-	      "author": "Jesse Pinkman"
+	"author": "Jesse Pinkman"
     },
     {
-        "quote": "Coin flip is sacred",
+        "quote": "Coin flip is sacred.",
         "author": "Jesse Pinkman"
     },
     {
@@ -510,11 +510,19 @@ module.exports = [
         "author": "Tuco Salamanca"
     },
     {
-	    "quote": "Get busy living or get busy dying.",
+	"quote": "Get busy living or get busy dying.",
         "author": "Stephen King"
     },
     {
         "quote": "Free to cook anytime, anywhere.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Cooking is art. And the shit I cook is the bomb.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "I'm the guy your boss brought here to show you how it's done.",
         "author": "Jesse Pinkman"
     },
 ];
