@@ -525,4 +525,8 @@ module.exports = [
         "quote": "I'm the guy your boss brought here to show you how it's done.",
         "author": "Jesse Pinkman"
     },
+    {
+        "quote": "Moral of the story is: I chose a half measure when I should have gone all the way. I'll never make that mistake again. No more half measures, Walter.",
+        "author": "Mike Ehrmantraut"
+    },
 ];
