@@ -6,6 +6,10 @@
     "type": "git",
     "url": "https://github.com/shevabam/breaking-bad-quotes"
   },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
   "keywords": [
     "breaking",
     "bad",
@@ -19,10 +23,10 @@
   },
   "homepage": "https://github.com/shevabam/breaking-bad-quotes",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
   "dependencies": {
     "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   }
 }
