@@ -561,4 +561,29 @@ module.exports = [
         "quote": "HUUUAAAAAAAAAA!!! *BIG EXPLOSION*"
         "author": "Gustavo Fring"
     },
+    {
+        "quote": "You're god dam right!"
+        "author": "Walter White"
+    },
+    {
+        "quote": "I'm the cook, I'm the man who killed Gus Fring"
+        "author": "Walter White"
+    },
+    {
+        "quote": "Walter White, you have the right to remain silent, anything you say can and will be used against you in the court of law. You have the right to speak to an atourney and have an atourney present during questioning. If you cannot afford one, one will be appointed for you at the government's expense."
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "You're the smartest guy I've ever met, but you're too stupid to see that he made up his mind 10 minutes ago."
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "I’ve been living with cancer for the better part of a year. Right from the start, it’s a death sentence. That’s what they keep telling me. Well, guess what? Every life comes with a death sentence. So, every few months I come in here for my regular scan knowing full well that one of these times—hell, maybe even today—I’m gonna hear some bad news. But until then, who’s in charge? Me. That’s how I live my life"
+        "author": "Walter White"
+    },
+    {
+        "quote": "Hey, I’m a civilian! I’m not your lawyer anymore. I’m nobody’s lawyer"
+        "author": "Saul Goodman"
+    },
+
 ];
