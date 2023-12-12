@@ -529,4 +529,36 @@ module.exports = [
         "quote": "Moral of the story is: I chose a half measure when I should have gone all the way. I'll never make that mistake again. No more half measures, Walter.",
         "author": "Mike Ehrmantraut"
     },
+    {
+        "quote": "There's money inside. About $100,000. Okay? I think. It was all I could fit into the box."
+        "author": "Walter White"
+    },
+    {
+        "quote": "I'm thinking 'Operation Breath Mint' every time you and me are on a stakeout together, alright? Breath could knock a buzzard off a shitwagon"
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Ehhh, what are you doing detective, what are you doing talking to my client without me present. You sneaky b."
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "What did you say to babyface huh, did you say anything stupid by stupid I mean anything at all."
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I mean, I don't think I'm going out on a limb here, but hey he's not gonna like prison, he's gonna sing Celine Dion regardless of what you do to me"
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I am not turning down the money, I am turning down you! You get it!"
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Where's the rest? It's not enough, it's not enough! Where's the money Skyler, where's the rest?! Skyler, WHERE IS THE MONEY!!!"
+        "author": "Walter White"
+    },
+    {
+        "quote": "HUUUAAAAAAAAAA!!! *BIG EXPLOSION*"
+        "author": "Gustavo Fring"
+    },
 ];
