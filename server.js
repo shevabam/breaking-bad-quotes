@@ -10,9 +10,16 @@ app.all('*', function (req, res, next) {
     next();
 });
 
+app.get('/v1/quote/:id', function(req, res) {
+    res.send({
+        quote: 'Yo soy el mero macizo',
+        author: 'Alex Vargas',
+    })
+})
 app.get('/v1/quotes/:num?', function (req, res) {
     res.send(quotesRepository.getRandom(req.params.num || 1));
 });
+
 
 app.listen(port, function () {
     console.log('Server running on port', port);
