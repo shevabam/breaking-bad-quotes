@@ -14,6 +14,14 @@ const getRandom = (req = request, res = response) => {
     res.send(out);
 }
 
+const getById = (req = request, res = response) => {
+    const { id } = req.params;
+    const _id = id > limit ? limit : id;
+
+    res.send(quotes[_id]);
+}
+
 module.exports = {
-    getRandom
+    getRandom,
+    getById
 }
