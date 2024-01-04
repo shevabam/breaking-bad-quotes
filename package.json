@@ -1,6 +1,6 @@
 {
   "name": "breaking-bad-quotes",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "An API for retrieving Breaking Bad quotes",
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.14.1"
+    "cors": "^2.8.5",
+    "express": "^4.14.1",
+    "express-validator": "^7.0.1"
   }
 }
