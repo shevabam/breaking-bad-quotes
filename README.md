@@ -57,6 +57,17 @@ Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 	  }
 	]
 
+### `GET /v1/quotes/by/{id}`
+
+Returns a specific quote from the 'breaking bad' quotes bank by the id given.
+
+> [https://api.breakingbadquotes.xyz/v1/quotes/by/1](https://api.breakingbadquotes.xyz/v1/quotes/by/1)
+
+	{
+		"quote": "Alright, I've got the talking pillow now... Okay?",
+		"author": "Walter White"
+	}
+
 
 ## Postman
 
