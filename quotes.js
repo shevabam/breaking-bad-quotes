@@ -529,4 +529,8 @@ module.exports = [
         "quote": "Moral of the story is: I chose a half measure when I should have gone all the way. I'll never make that mistake again. No more half measures, Walter.",
         "author": "Mike Ehrmantraut"
     },
+    {
+        "quote": "I did it for the chemistry.",
+        "author": "Gale Boetticher"
+    }
 ];
