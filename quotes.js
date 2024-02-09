@@ -491,11 +491,11 @@ module.exports = [
     },
     {
         "quote": "To all law enforcement entities, this is not an admission of guilt.",
-	"author": "Walter White"
+        "author": "Walter White"
     },
     {
         "quote": "We're all on the same page. The one that says, if I can't kill you, you'll sure as shit wish you were dead.",
-	"author": "Jesse Pinkman"
+        "author": "Jesse Pinkman"
     },
     {
         "quote": "Coin flip is sacred.",
@@ -510,7 +510,7 @@ module.exports = [
         "author": "Tuco Salamanca"
     },
     {
-	"quote": "Get busy living or get busy dying.",
+        "quote": "Get busy living or get busy dying.",
         "author": "Stephen King"
     },
     {
@@ -536,5 +536,9 @@ module.exports = [
     {
         "quote": "You’re early lucky, you know that? You didn’t have to wait your whole life to do something special.",
         "author": "Walter White"
+    },
+    {
+        "quote": "You have a good rest of your life, kid.",
+        "author": "Jesse Pinkman"
     }
 ];
