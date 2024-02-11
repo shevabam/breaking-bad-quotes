@@ -60,8 +60,11 @@ Returns an array with `{number}` quotes e.g. `GET /v1/quotes/5`.
 
 ## Postman
 
-You can integrate the API into Postman thanks to the [Postman collection](Breaking_Bad_Quotes_API.postman_collection.json) available on the repository.
+You can integrate the API into Postman thanks to the [Postman collection](collections/Breaking_Bad_Quotes_API.postman_collection.json) available on the repository.
 
+## Insomnia
+
+You can integrate the API into Insomnia thanks to the [Insomnia collection](collections/Breaking_Bad_Insomnia_2023-06-29.json) available on the repository.
 
 ## Docker
 

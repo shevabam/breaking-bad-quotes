@@ -1,9 +1,9 @@
 'use strict';
 
-var express = require('express');
-var quotesRepository = require('./quotesRepository');
-var app = express();
-var port = process.env.PORT || 3001;
+const express = require('express');
+const quotesRepository = require('./quotesRepository');
+const app = express();
+const port = process.env.PORT || 3001;
 
 app.all('*', function (req, res, next) {
     res.set('Access-Control-Allow-Origin', '*');
