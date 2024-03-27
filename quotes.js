@@ -351,7 +351,7 @@ module.exports = [
     },
     {
         "quote": "Some people are immune to good advice.",
-        "author": "Walter White"
+        "author": "Saul Goodman"
     },
     {
         "quote": "Well, technically, chemistry is the study of matter. But I prefer to see it as the study of change.",
@@ -539,6 +539,146 @@ module.exports = [
     },
     {
         "quote": "You have a good rest of your life, kid.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Do what you're gonna do.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Say the words! Say YOU want this! Nothing happens until I hear you say it.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Don't you know me by now?",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Just so you know, this isn't personal.",
+        "author": "Todd"
+    },
+    {
+        "quote": "One of these days when you come up here, I'll be dead.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Heart wants what the heart wants, right?",
+        "author": "Uncle Jack"
+    },
+    {
+        "quote": "I have done this long enough to know that there are two kinds of heists: Those where the guys get away with it and those that leave witnesses.",
+        "author": "Mike Ehrmantraut"
+    },
+    {
+        "quote": "It's always darkest just before the dawn.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Funny how words can be so open to interpretation.",
+        "author": "Mike Ehrmantraut"
+    },
+    {
+        "quote": "Look, I saved your life, Jesse. Are you gonna save mine?",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Never say never",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Being the best at something is a very rare thing. You don't just toss something like that away. And what, you wanna squander that potential?",
+        "author": "Walter White"
+    },
+    {
+        "quote": "What good is money that doesn't spend?",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "There's no honor among thieves, except for us of course",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Let's just say, I know a guy who knows a guy, who knows another guy",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Jesse, we need to cook!",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Right now, what I need, is for you to climb down out of my ass. Can you do that? Will you do that for me honey? Will you please, just once, get off my ass? You know? I'd appreciate it. I really would.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Yo, yo yo, 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up biatch? Leave it at the tone.",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "MILFs? What the hell is a MILF?",
+        "author": "Skyler White"
+    },
+    {
+        "quote": "You know I, I just think, that ah, things have a way of working themselves out.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Chick's got an ass like an onion, makes me wanna cry.",
+        "author": "Hank Schrader"
+    },
+    {
+        "quote": "Yo, Mr. White. I can't even pronounce half this shit!",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Today is the first day of the rest of your life.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Better safe than sorry. That's my motto.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "Conscience gets expensive, doesn't it?",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "You can never trust a drug addict.",
+        "author": "Gustavo Fring"
+    },
+    {
+        "quote": "Cyber-begging. That's all that is. Just rattling a little tin cup to the entire world.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "I am the man that I am son, and there's plenty that I would change about that but, here we are and this is just what it is.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "La familia es todo.",
+        "author": "Tio Salamanca"
+    },
+    {
+        "quote": "Muscle memory. Happens all the time. Years of training, your body acted faster than your brain",
+        "author": "Marie Schrader"
+    },
+    {
+        "quote": "So you're chasing around a fly and in your world, I'm the idiot?",
+        "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "Ignorance of the law doesn't equate to criminality. It equates to ignorance.",
+        "author": "Skyler White"
+    },
+    {
+        "quote": "You know, I have never seen anybody work so hard not to get 5 million dollars.",
+        "author": "Mike Ehrmantraut"
+    },
+    {
+        "quote": "It can be done exactly how I want it. The only question is: Are you the man to do it? Figure it out. That's what I'm paying you for.",
+        "author": "Walter White"
+    },
+    {
+        "quote": "Mr White, he's the devil. You know, he is... he is smarter than you, he is luckier than you. Whatever... whatever you think is supposed to happen... I'm telling you the exact reverse opposite of that is gonna happen, okay?",
         "author": "Jesse Pinkman"
     }
 ];
