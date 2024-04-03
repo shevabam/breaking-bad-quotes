@@ -230,6 +230,10 @@ module.exports = [
         "author": "Mike Ehrmantraut"
     },
     {
+        "quote": "I Know You Despise Me And I Know How Much You Want To See Me Dead. But I'm Willing To Bet There's A Man That You Hate Even More.",
+        "author": "Walter White"
+    },
+    {
         "quote": "I will put you under the jail.",
         "author": "Hank Schrader"
     },
