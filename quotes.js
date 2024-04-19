@@ -680,5 +680,13 @@ module.exports = [
     {
         "quote": "Mr White, he's the devil. You know, he is... he is smarter than you, he is luckier than you. Whatever... whatever you think is supposed to happen... I'm telling you the exact reverse opposite of that is gonna happen, okay?",
         "author": "Jesse Pinkman"
+    },
+    {
+        "quote": "The whole minimalist thing never blew my hair back, but hey.",
+        "author": "Saul Goodman"
+    },
+    {
+        "quote": "I am awake!",
+        "author": "Walter White"
     }
 ];
