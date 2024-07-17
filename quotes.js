@@ -688,5 +688,9 @@ module.exports = [
     {
         "quote": "I am awake!",
         "author": "Walter White"
+    },
+    {
+        "quote": "No more prolonging the inevitable.",
+        "author": "Walter White"
     }
 ];
