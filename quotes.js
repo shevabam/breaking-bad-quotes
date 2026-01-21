@@ -692,5 +692,9 @@ module.exports = [
     {
         "quote": "No more prolonging the inevitable.",
         "author": "Walter White"
+    },
+    {
+        "quote": "Success is just about doing nothing and waiting for good things to happen.",
+        "author":"Walter White"
     }
 ];
