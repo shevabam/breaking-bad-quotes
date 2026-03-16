@@ -692,5 +692,9 @@ module.exports = [
     {
         "quote": "No more prolonging the inevitable.",
         "author": "Walter White"
+    },
+    {
+        "quote": "We? Who's we? There is no we.",
+        "author": "Walter White"
     }
 ];
