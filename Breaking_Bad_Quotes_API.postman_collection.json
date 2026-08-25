@@ -50,6 +50,30 @@
 				"description": "Returns an array with {number} quotes e.g. `GET /v1/quotes/5`."
 			},
 			"response": []
+		},
+		{
+			"name": "Get quote number #{{number}} from the list of quotes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.breakingbadquotes.xyz/v1/quotes/num/{{number}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"breakingbadquotes",
+						"xyz"
+					],
+					"path": [
+						"v1",
+						"quotes",
+						"num",
+						"{{number}}"
+					]
+				},
+				"description": "Returns the quote whose number is specified in {number}, e.g. `GET /v1/quotes/num/42`."
+			},
+			"response": []
 		}
 	],
 	"variable": [
